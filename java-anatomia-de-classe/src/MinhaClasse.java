@@ -1,5 +1,14 @@
 public class MinhaClasse {
     public static void main(String[] args) {
-        System.out.print("Olá turma, sejam bem-vindos!");
+        String meuNome = "Valmilson";
+
+        int minhaIdade = 48;
+
+        boolean verdadeira = true;
+
+        verdadeira = false;
+
+        System.out.println("meu nome é " + meuNome + "e minha idade é "+ minhaIdade + "está certo ou falso: "+ verdadeira);
     }
+
 }
